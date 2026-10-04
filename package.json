@@ -4,11 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "lint": "oxlint",
-    "preview": "vite preview",
-    "typecheck": "tsc -b"
+    "preview": "vite preview --host 0.0.0.0",
+    "typecheck": "tsc -b",
+    "start": "vite preview --host 0.0.0.0"
   },
   "dependencies": {
     "@types/katex": "^0.16.8",
