@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="24" fill="#0F172A"/>
+  <circle cx="50" cy="50" r="32" stroke="#6366F1" stroke-width="3" stroke-dasharray="6 4" opacity="0.6"/>
+  <!-- Brain / Neural nodes -->
+  <circle cx="50" cy="35" r="7" fill="#6366F1"/>
+  <circle cx="34" cy="48" r="6" fill="#3B82F6"/>
+  <circle cx="66" cy="48" r="6" fill="#A855F7"/>
+  <circle cx="38" cy="65" r="5" fill="#10B981"/>
+  <circle cx="62" cy="65" r="5" fill="#F97316"/>
+  <path d="M50 35 L34 48 M50 35 L66 48 M34 48 L38 65 M66 48 L62 65 M34 48 L66 48 M38 65 L62 65" stroke="#94A3B8" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
